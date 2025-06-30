@@ -1,1 +1,3 @@
-# gh-pages branch
+# rsschool-cv
+
+Этот репозиторий создан для задания CV.
