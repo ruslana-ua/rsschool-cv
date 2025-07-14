@@ -1,60 +1,78 @@
-# Руслана Викторовна
+# Ruslana Chukhlib
 
 ---
 
-## Контакты
+## Contacts
 
-- Email: your.email@example.com
-- Телефон: +7 (999) 123-45-67
-- GitHub: https://github.com/ruslana-ua
-- LinkedIn: https://linkedin.com/in/ruslana-ua
-
----
-
-## О себе
-
-Мотивированный Junior Frontend Developer с сильным желанием учиться и развиваться. Стремлюсь создавать качественный, адаптивный и кроссбраузерный код. Имею опыт работы с HTML5, CSS3 и JavaScript на учебных проектах. Цель — стать частью команды, где могу применить и расширить свои навыки, а также вносить реальную пользу проектам.
+- Email: rvdevx@gmail.com
+- Phone: +7 (999) 123-45-67
+- GitHub: [ruslana-ua](https://github.com/ruslana-ua)
+- LinkedIn: [ruslana-c-dev](https://www.linkedin.com/in/ruslana-c-dev/)
 
 ---
 
-## Навыки
+## About Me
 
-- **Языки:** HTML5, CSS3, JavaScript (ES6+)
-- **Фреймворки и библиотеки:** React (базовый уровень), Bootstrap
-- **Инструменты и методологии:** Git, REST API, Agile/Scrum
-- **Среды разработки:** VS Code, Chrome DevTools
-- **Дополнительно:** Кроссбраузерная и адаптивная верстка, работа с Figma
+I am a motivated Frontend Developer with commercial experience specializing in building responsive, cross-browser websites using pure HTML5, CSS3, and JavaScript. 🌐💻 I write clean, maintainable, and high-performance code, ensuring compatibility with all modern browsers. Experienced in both educational projects and real-world commercial work, I am eager to join a team where I can apply and expand my skills while delivering real value.
 
 ---
 
-## Примеры кода
+## Skills
 
-- [GitHub: Портфолио проектов](https://github.com/ruslana-ua/rsschool-cv)
-- [Учебный проект “Todo List”](https://github.com/ruslana-ua/todo-list)
-
----
-
-## Опыт работы
-
-### Учебные проекты
-
-- **Todo List** — разработка интерактивного списка задач на JavaScript, реализация фильтрации и сохранения данных в localStorage.
-- **Landing Page** — адаптивная и кроссбраузерная верстка страницы, работа с анимациями и формами.
-
----
-
-## Образование
-
-- Бакалавр в области информационных технологий (название университета), 2021
-- Курсы:
-  - Frontend-разработка, Rolling Scopes School (2024)
-  - JavaScript для начинающих, Udemy (2023)
+- **HTML5, CSS3 (Tailwind CSS, Bootstrap, SASS/SCSS, BEM)**
+- **JavaScript (ES6+)**
+- **Responsive Web Design**
+- **Cross-Browser Compatibility**
+- **Build Tools (Webpack, Gulp)**
+- **Version Control (Git)**
+- **UI/UX Design**
+- **React** — basic knowledge
+- **WordPress** — familiar
+- **Laravel** — basic understanding
 
 ---
 
-## Английский язык
+## Code Examples
 
-- Уровень B1 (Intermediate), регулярно практикую разговорную речь и чтение технической документации.
-- Проходила языковую практику на онлайн-курсах и общалась с носителями в рамках учебных проектов.
+- [Frontend React app with animations](https://github.com/ruslana-ua/spinree)
+- [Clean, semantic HTML markup with responsive layout](https://rcbu.org.ua/)
+
+### Example Codewars Task Solution
+
+**Task:** Remove the smallest number from the array without changing the order of the elements.
+
+```javascript
+function removeSmallest(numbers) {
+  const min = Math.min(...numbers);
+  const index = numbers.indexOf(min);
+  return numbers.filter((num, i) => i !== index);
+}
+```
 
 ---
+
+## Work Experience
+
+- **React frontend application:** Featuring smooth animations, component-based architecture, and responsive design focused on enhanced user experience.
+- **Semantic, clean HTML website:** With fully responsive layout, optimized for accessibility and cross-browser compatibility.
+
+---
+
+## Education
+
+- Master's Degree in Economics, Dnipropetrovskij Nacionalnij Universitet (2011–2015)
+- Courses:
+  - Basics of Web Development. HTML, CSS in Ukrainian, Udemy (2021)
+  - HTML & CSS From Zero to Pro: Build Your First Web Page Today, Udemy (2022)
+  - JavaScript for Beginners, Udemy (2023)
+  - JavaScript/Front-end. Pre-school, Rolling Scopes School (2025)
+
+---
+
+## Languages
+
+- Ukrainian — native
+- Russian — native
+- English — A2 (Elementary), regular practice in speaking and reading technical documentation
+- Spanish — A2 (Elementary), beginner level communication skills
+- Completed language practice through online courses and communication with native speakers during educational projects
